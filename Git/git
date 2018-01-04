@@ -1,0 +1,33 @@
+git init			# 初始化
+git config			# 配置
+
+git add				# 添加文件
+git rm				# 移除文件
+git mv				# 移动或重命名文件
+git status			# 查看文件状态
+git commit			# 提交更新
+git log				# 查看提交历史
+git reset			# 重置暂存区文件
+git revert			# 回滚撤销提交
+git show			# 显示修改历史
+
+git remote			# 管理远程仓库
+git clone			# 克隆项目仓库
+git fetch			# 取回更新
+git push			# 推送分支
+git pull			# 抓取分支
+git tag				# 管理标签
+
+git branch			# 管理分支
+git checkout			# 切换分支
+git merge			# 合并分支
+git rebase			# 重订分支
+git stash			# 储藏
+
+git diff			# 比较文件
+git apply			# 应用补丁
+git am				# 应用补丁
+git blame			# 文件标注
+git bisect			# 二分查找
+git submodule			# 子模块操作
+git help			# 帮助
