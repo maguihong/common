@@ -13,12 +13,12 @@
 标题2
 -----
 
-#标题1
-##标题2
-###标题3
-####标题4
-#####标题5
-######标题6
+# 标题1
+## 标题2
+### 标题3
+#### 标题4
+##### 标题5
+###### 标题6
 
 
 
@@ -103,18 +103,17 @@
 [带鼠标悬浮提示的行内链接](http://www.google.com "Google")
 
 [引用链接：在文档的任何地方定义一个到对应ID的链接][link-id]
-[link-id]: http://www.google.com "Google"
-
-
 
 ![行内图片](https://help.github.com/assets/images/site/favicon.ico "Github")
 
 ![引用图片：在文档的任何地方定义一个到对应ID的链接][image-id]
-[image-id]: https://help.github.com/assets/images/site/favicon.ico "Github"
-
-
 
 [跳转至顶部锚点](#top "顶部")
+
+
+
+[link-id]: http://www.google.com "Google"
+[image-id]: https://help.github.com/assets/images/site/favicon.ico "Github"
 
 
 
