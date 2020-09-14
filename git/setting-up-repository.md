@@ -25,7 +25,7 @@ git config --global alias.<alias-name> <git-command>
 ```
 ```
 git remote add <remote_name> <remote_repo_url>
-git remote add origin https://github.com/maguihong/Common.git
+git remote add origin https://github.com/maguihong/common.git
 ```
 
 
