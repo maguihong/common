@@ -1,7 +1,6 @@
 " Indention Options
 set autoindent                  " New lines inherit the indentation of previous lines.
 set expandtab                   " Convert tabs to spaces.
-set filetype indent on          " Enable indentation rules that are file-type specific.
 set shiftround                  " When shifting lines, round the indentation to the nearest multiple of “shiftwidth.”
 set shiftwidth=4                " When shifting, indent using four spaces.
 set smarttab                    " Insert “tabstop” number of spaces when the “tab” key is pressed.
@@ -31,7 +30,6 @@ set laststatus=2                " Always display the status bar.
 set ruler                       " Always show cursor position.
 set wildmenu                    " Display command line’s tab complete options as a menu.
 set tabpagemax=50               " Maximum number of tab pages that can be opened from the command line.
-set colorscheme wombat256mod    " Change color scheme.
 set cursorline                  " Highlight the line currently under cursor.
 set number                      " Show line numbers on the sidebar.
 set relativenumber              " Show line number on the current line and relative numbers on all other lines.
