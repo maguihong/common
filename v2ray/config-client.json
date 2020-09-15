@@ -1,7 +1,7 @@
 {
     "inbounds": [
       {
-        "port": 1080,
+        "port": 10000,
         "listen": "127.0.0.1",
         "protocol": "socks",
         "sniffing": {
@@ -20,7 +20,7 @@
         "settings": {
           "vnext": [
             {
-              "address": "mydomain.me",
+              "address": "maguihong.net",
               "port": 443,
               "users": [
                 {
